@@ -1,0 +1,36 @@
+body {
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
+
+body {
+    background-color: lightcoral;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+    color : darkmagenta;
+}
+
+h2 {
+    color : black;
+}
+
+h3 {
+    color : lightyellow;
+}
+
+item{
+    width:200px;
+    text-align:center;
+    display:block;
+    background-color: transparent;
+    border: 1px solid transparent;
+    margin-right: 10px;
+    margin-bottom: 1px;
+}
